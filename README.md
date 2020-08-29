@@ -2,7 +2,7 @@
 
 A sample Unity project for doing simple game settings/option in your game-jam or as a starter template for your game's settings.
 
-The project requires Textmesh Pro, a free asset from Unity. The project includes an example of usage with supporting assets. Import the Unity package if you just want the scripts and prefabs for your own project.
+The project requires Textmesh Pro, a free asset from Unity. The project includes an example of usage with supporting assets. Import the [Unity package](https://github.com/plyoung/game-settings/releases/tag/0) if you only want the scripts and prefabs for your own project.
 
 There are prefabs for the whole settings panel to get you started quickly. You then only need to make a call to `GameSettingsManager.RestoreSettings();` as soon as poissible. For example in the `Start()` method of a main menu script or game bootstrapping script. See the `Sample.cs` script.
 
