@@ -1,0 +1,11 @@
+{
+    "name": "com.plyoung.game-settings",
+    "displayName": "Game Settings",
+    "version": "1.0.1",
+    "unity": "2020.1",
+    "description": "Quick start game settings/options management and UI.",
+    "keywords": [ "settings", "options" ],
+    "license": "MIT",
+    "category": "Code",
+    "dependencies": {}
+}
