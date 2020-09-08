@@ -20,3 +20,4 @@ The Sound Volume can be controlled per sound type. There are definitions for the
 
 To control the volume of [AudioSources](https://docs.unity3d.com/ScriptReference/AudioSource.html) you need to attach a, menu: `Component > GameSettings > Sound Volume Updater` component to each object that has an `AudioSource` and associated that AudioSource with the volume updater via its properties in the Inspector. You will also choose here what sound type (Music, GUI, Effects, etc) the updater is related to.
 
+![Screenshot](/Misc/screenshot.jpg?raw=true)
